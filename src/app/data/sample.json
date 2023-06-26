@@ -1,0 +1,22 @@
+{
+    "jobs": [
+	{
+	    "company-name": "XYZ Company",
+	    "job-title": "Full Stack Development",
+	    "date": "2023-06-26",
+	    "status": "accepted"
+	},
+	{
+	    "company-name": "XYZ Company",
+	    "job-title": "Full Stack Development",
+	    "date": "2023-06-26",
+	    "status": "accepted"
+	},
+	{
+	    "company-name": "XYZ Company",
+	    "job-title": "Full Stack Development",
+	    "date": "2023-06-26",
+	    "status": "accepted"
+	}
+    ]
+}

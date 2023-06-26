@@ -3,7 +3,6 @@
 This is a boilerplate for all the components that I would like to replicate from solid js over to react and use them without rewriting them
 over again.
 
----
 
 ## Components
 
